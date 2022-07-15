@@ -52,7 +52,7 @@ Among Linear regression, KNN and Random forest classification, KNN provided the 
 
 
 
-##NLP Analysis
+## NLP Analysis
 
 To run the NLP Code, You'll need at least python 3.8, 3.10 is preferred to run NER draw NER Chunk:
 
