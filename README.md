@@ -60,7 +60,7 @@ To run the NLP Code, You'll need at least python 3.8, 3.10 is preferred to run N
 
 ### Python libraries: `pandas`, `numpy`, `matplotlib`, `scipy`, `seaborn`, `sklearn`, `nltk`, `collections`, `nltk.corpus`, `gensim`, `re`, `pprint`, `wordcloud`, `PIL`, `itertools`, `spacy` 
 
-
+```javascript
 Imported libraries specific modules include:
 from gensim.corpora.dictionary import Dictionary
 from collections import defaultdict
@@ -85,6 +85,8 @@ from PIL import Image
 import itertools
 import spacy
 from sklearn.feature_extraction.text import CountVectorizer
+```
+
 
 
 To run the code in a terminal, Run the command:
