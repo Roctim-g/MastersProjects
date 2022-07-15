@@ -9,7 +9,7 @@
    - Mass Shooting dataset: [USMassShootings07042022.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/USMassShootings07042022.csv)
    - Gun Law Score Card: [GunLawScoreCard.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/GunLawScoreCard.csv)
 * NLP
-   - Updated Mass Shooting dataset: [USMassShootings05242022_update0704.csv] (https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/NLP/USMassShootings05242022_update0704.csv) 
+   - Updated Mass Shooting dataset: [USMassShootings05242022_update0704.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/NLP/USMassShootings05242022_update0704.csv) 
 
 ## Exploratory Data Analysis
 Executable script: [AIT580_T6_EDA_Project.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/NLP/USMassShootings_RawData.csv)  
