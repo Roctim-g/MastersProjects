@@ -9,9 +9,10 @@
    - Mass Shooting dataset: [USMassShootings07042022.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/USMassShootings07042022.csv)
    - Gun Law Score Card: [GunLawScoreCard.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/GunLawScoreCard.csv)
 * NLP
+   - Updated Mass Shooting dataset: [USMassShootings05242022_update0704.csv] (https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/NLP/USMassShootings05242022_update0704.csv) 
 
 ## Exploratory Data Analysis
-Executable script: [AIT580_T6_EDA_Project.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/EDA/AIT58_T6_EDA_Project.py) 
+Executable script: [AIT580_T6_EDA_Project.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/NLP/USMassShootings_RawData.csv)  
 
 Python libraries: pandas, numpy, matplotlib.pyplot, plotly.express, seaborn
 
@@ -48,5 +49,44 @@ Python libraries: pandas, numpy, matplotlib.pyplot, plotly.express, seaborn
 
 ### Conclusion: 
 Among Linear regression, KNN and Random forest classification, KNN provided the most high accuracy level. The result of identify the impact of gun law on massive shooting were quite dismal. No model was able to predict mass shootings with any level of accuracy greater than random chance. The relative infrequency of mass shooting can make cush correlations harder to dect. 
-## NLP Analysis
+
+
+
+##NLP Analysis
+
+To run the NLP Code, You'll need at least python 3.8, 3.10 is preferred to run NER draw NER Chunk:
+
+### Executable script: [usMassShootingsNLP_Run.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/NLP/usMassShootingsNLP_Run.py) 
+
+### Python libraries: `pandas`, `numpy`, `matplotlib`, `scipy`, `seaborn`, `sklearn`, `nltk`, `collections`, `nltk.corpus`, `gensim`, `re`, `pprint`, `wordcloud`, `PIL`, `itertools`, `spacy` 
+
+
+Imported libraries specific modules include:
+from gensim.corpora.dictionary import Dictionary
+from collections import defaultdict
+
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.tokenize import sent_tokenize
+from collections import Counter
+from nltk.corpus import stopwords
+from gensim.models.tfidfmodel import TfidfModel
+from gensim.corpora.dictionary import Dictionary
+from nltk.tokenize import word_tokenize
+from nltk.tokenize import sent_tokenize
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+import re, pprint
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+import pandas as pd
+from PIL import Image
+import itertools
+import spacy
+from sklearn.feature_extraction.text import CountVectorizer
+
+
+To run the code in a terminal, Run the command:
+/usr/bin/python3 usMassShootingsNLP_Run.py USMassShootings05242022_update0704.csv
 
