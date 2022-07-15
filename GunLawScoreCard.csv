@@ -1,0 +1,52 @@
+gun_law_strength(ranked),state,gun_law_strength_grade,gun_death_rate(ranked),gun_death_rate_per_100k,region
+1,California,A,44,8.5,West
+2,New Jersey,A,48,5,Northeast
+3,Connecticut,A-,45,6,Northeast
+4,Hawaii,A-,50,3.4,West
+5,Massachusetts,A-,49,3.7,Northeast
+6,New York,A-,46,5.3,Northeast
+7,Maryland,A-,33,13.5,South
+8,Illinois,A-,27,14.1,Midwest
+9,Rhode Island,B,47,5.1,Northeast
+10,Washington,B,39,10.9,West
+11,Virginia,B,34,13.4,South
+12,Delaware,B,25,14.3,South
+13,Colorado,B,22,15.4,West
+14,Pennsylvania,B-,31,13.6,Northeast
+15,D.C.,B-,34,13.5,South
+16,Oregon,B-,35,13,West
+17,Nevada,C+,18,17,West
+18,Minnesota,C+,43,8.9,Midwest
+19,Michigan,C+,24,14.6,Midwest
+20,New Mexico,C,7,22.7,West
+21,Nebraska,C-,41,10.1,Midwest
+22,North Carolina,C-,21,16,South
+22,Wisconsin,C-,36,12.2,Midwest
+24,Vermont,C-,37,11.6,Northeast
+25,Florida,C-,29,13.7,South
+26,Ohio,D,23,15.2,Midwest
+27,Indiana,D-,17,17.3,Midwest
+28,New Hampshire,F,42,8.9,Northeast
+29,Georgia,F,15,17.7,South
+30,Maine,F,40,10.4,Northeast
+31,Iowa,F,38,11.2,Midwest
+32,Alabama,F,5,23.6,South
+33,South Carolina,F,9,22,South
+34,Utah,F,30,13.6,West
+34,Louisiana,F,2,26.3,South
+36,West Virginia,F,14,18.1,South
+37,Texas,F,26,14.2,South
+37,Tennessee,F,10,21.3,South
+39,Oklahoma,F,12,20.7,South
+40,North Dakota,F,28,13.8,Midwest
+41,Montana,F,11,20.9,West
+42,Alaska,F,6,23.5,West
+42,Kentucky,F,13,20.1,South
+44,Arizona,F,20,16.7,West
+45,South Dakota,F,32,13.6,Midwest
+45,Mississippi,F,1,28.6,South
+47,Kansas,F,19,16.9,Midwest
+48,Missouri,F,4,23.9,Midwest
+49,Idaho,F,16,17.6,West
+50,Wyoming,F,3,25.9,West
+51,Arkansas,F,8,22.6,South
