@@ -12,7 +12,7 @@
 ## Exploratory Data Analysis
 
 ## Machine Learning
-Ex
+Executable Script: [AIT580_Team6_Project_ML.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/AIT580_Team6_Project_ML.py)
 |ML Model|Result|
 |--------|------|
 |Linear Regression(Gun law strength score vs. Fatalities)|R-Squared: |
