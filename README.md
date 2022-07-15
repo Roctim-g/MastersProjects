@@ -1,2 +1,14 @@
-# AIT580_Team6_Machine_Learning
-AIT580_Team Project_Machine_Learning
+# AIT 580 Final Project: Team 6
+Roctim Gogoi, Nina Lin, Tony Sanchez
+Understanding US Mass Shooting Data last 50 Years
+
+# Sytem Set Up
+
+# Dataset Links
+
+# Exploratory Data Analysis
+
+# Machine Learning
+
+# NLP Analysis
+
