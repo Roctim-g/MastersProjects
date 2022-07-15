@@ -12,6 +12,7 @@
 ## Exploratory Data Analysis
 
 ## Machine Learning
+Ex
 |ML Model|Result|
 |--------|------|
 |Linear Regression(Gun law strength score vs. Fatalities)|R-Squared: |
