@@ -10,12 +10,12 @@
    - Gun Law Score Card: [GunLawScoreCard.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/ML/GunLawScoreCard.csv)
 * NLP
 
-## Exploratory Data Analysis
+#### Machine Learning 
 #### Executable script: [AIT580_Team6_Project_ML.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/ML/AIT580_Team6_Project_ML.py)
 
 #### Python libraries: `pandas`, `numpy`, `matplotlib`, `scipy`, `seaborn`, `sklearn`
 
-#### Machine Learning 
+#### Machine Learning Models
 ##### 1.  Linear Regresssion
   - gun_law_strength_score vs. fatalities: `R-Squared = 0.00568`
   - gun_law_strength_score vs. gun_death_rate_per_100k: `R-Squared = 0.5436`
