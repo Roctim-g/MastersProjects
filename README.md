@@ -4,12 +4,14 @@
 
 ## Dataset Links
 * EDA:
+   - Mass shooting dataset: USMassShootings_RawData.cav
 * Machine Learning: 
    - Mass Shooting dataset: [USMassShootings07042022.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/USMassShootings07042022.csv)
    - Gun Law Score Card: [GunLawScoreCard.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/GunLawScoreCard.csv)
 * NLP
 
 ## Exploratory Data Analysis
+Executable script: 
 
 ## Machine Learning
 Executable Script: [AIT580_Team6_Project_ML.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/AIT580_Team6_Project_ML.py)
