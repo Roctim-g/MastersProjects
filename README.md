@@ -24,7 +24,8 @@ Python libraries: pandas, numpy, matplotlib.pyplot, plotly.express, seaborn
 
 
 ## Machine Learning
-
+ To run the Machine Learning code, please downloand ML folder from main repository. 
+ 
 ### Executable script: [AIT580_Team6_Project_ML.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/ML/AIT580_Team6_Project_ML.py) 
 
 ### Python libraries: `pandas`, `numpy`, `matplotlib`, `scipy`, `seaborn`, `sklearn`
