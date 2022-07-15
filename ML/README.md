@@ -33,6 +33,9 @@
 
 ##### 3. Random Forest Classification
   - Accuracy rate = 0.1795
-  
+
+#### Conclusion: 
+ Among Linear regression, KNN and Random forest classification, KNN provided the most high accuracy level. The result of identify the impact of gun law on massive shooting were quite dismal. No model was able to predict mass shootings with any level of accuracy greater than random chance. The relative infrequency of mass shooting can make cush correlations harder to dect. 
+
 ## NLP Analysis
 
