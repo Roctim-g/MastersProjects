@@ -23,11 +23,11 @@ Python libraries: pandas, numpy, matplotlib.pyplot, plotly.express, seaborn
 
 
 ## Machine Learning
-#### Executable script: [AIT580_Team6_Project_ML.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/ML/AIT580_Team6_Project_ML.py)
+### Executable script: [AIT580_Team6_Project_ML.py](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/ML/AIT580_Team6_Project_ML.py)
 
-#### Python libraries: `pandas`, `numpy`, `matplotlib`, `scipy`, `seaborn`, `sklearn`
+### Python libraries: `pandas`, `numpy`, `matplotlib`, `scipy`, `seaborn`, `sklearn`
 
-#### Machine Learning Models
+### Machine Learning Models
 ##### 1.  Linear Regresssion
   - gun_law_strength_score vs. fatalities: `R-Squared = 0.00568`
   - gun_law_strength_score vs. gun_death_rate_per_100k: `R-Squared = 0.5436`
@@ -46,7 +46,7 @@ Python libraries: pandas, numpy, matplotlib.pyplot, plotly.express, seaborn
 ##### 3. Random Forest Classification
   - Accuracy rate = 0.1795
 
-#### Conclusion: 
- Among Linear regression, KNN and Random forest classification, KNN provided the most high accuracy level. The result of identify the impact of gun law on massive shooting were quite dismal. No model was able to predict mass shootings with any level of accuracy greater than random chance. The relative infrequency of mass shooting can make cush correlations harder to dect. 
+### Conclusion: 
+Among Linear regression, KNN and Random forest classification, KNN provided the most high accuracy level. The result of identify the impact of gun law on massive shooting were quite dismal. No model was able to predict mass shootings with any level of accuracy greater than random chance. The relative infrequency of mass shooting can make cush correlations harder to dect. 
 ## NLP Analysis
 
