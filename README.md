@@ -4,7 +4,7 @@
 
 ## Dataset Links
 * EDA:
-   - Mass shooting dataset: USMassShootings_RawData.csv 
+   - Mass shooting dataset: [USMassShootings_RawData.csv] (https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/EDA/USMassShootings_RawData.csv) 
 * Machine Learning: 
    - Mass Shooting dataset: [USMassShootings07042022.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/USMassShootings07042022.csv)
    - Gun Law Score Card: [GunLawScoreCard.csv](https://github.com/linxiuyun93/AIT580_Team6_Final-Project/blob/main/GunLawScoreCard.csv)
